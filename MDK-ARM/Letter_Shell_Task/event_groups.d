@@ -1,0 +1,15 @@
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+letter_shell_task\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+letter_shell_task\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+letter_shell_task\event_groups.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+letter_shell_task\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+letter_shell_task\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
